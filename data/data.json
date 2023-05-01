@@ -1,0 +1,184 @@
+
+     [
+        {
+            "id": 1,
+            "name": "América Futebol Clube", 
+            "state": "Minas Gerais",
+            "foundationYear": 1912,
+            "stadium": "Arena Independência",
+            "mascot": "Coelho",
+            "emblem": "./imgs/america-mineiro-img.png"
+        },
+        {
+            "id":2,
+            "name": "Club Athletico Paranaense", 
+            "state": "Paraná",
+            "foundationYear": 1924,
+            "stadium": "Estádio Joaquim Américo Guimarães",
+            "mascot": "Fura-cão",
+            "emblem": "./imgs/atletico-paranaense-img.png"
+        },
+        {
+            "id":3,
+            "name": "Clube Atlético Mineiro", 
+            "state": "Minas Gerais",
+            "foundationYear": 1908,
+            "stadium": "Mineirão",
+            "mascot": "Galo",
+            "emblem": "./imgs/atletico-mineiro-img.png"
+        },
+        {
+            "id": 4,
+            "name": "Esporte Clube Bahia",  
+            "state": "Bahia",
+            "foundationYear": 1924,
+            "stadium": "Itaipava Arena Fonte Nova",
+            "mascot": "Super Homem Tricolor",
+            "emblem": "./imgs/bahia-img.png"
+        },
+        {
+            "id": 5,
+            "name": "Botafogo de Futebol e Regatas",  
+            "state": "Rio de Janeiro",
+            "foundationYear": 1904,
+            "stadium": "Nilton Santos",
+            "mascot": "Manequinho",
+            "emblem": "./imgs/botafogo-img.png"
+        },
+        {
+            "id":6,
+            "name": "Red Bull Bragantino",  
+            "state": "Sõ Paulo",
+            "foundationYear": 1928,
+            "stadium": "Estádio Nabi Abi Chedid",
+            "mascot": "Leão/Touro",
+            "emblem": "./imgs/red-bull-bragantino-img.png"
+        },
+        {
+            "id":7,
+            "name": "Sport Club Corinthians Paulista",  
+            "state": "São Paulo",
+            "foundationYear": 1910,
+            "stadium": "Neo Quimica Arena",
+            "mascot": "Mosqueteiro",
+            "emblem": "./imgs/corinthians-img.png"
+        },
+        {
+            "id":8,
+            "name": "Coritiba Foot Ball Club",  
+            "state": "Paraná",
+            "foundationYear": 1909,
+            "stadium": "Major Antônio Couto Pereira",
+            "mascot": "Vovô Coxa",
+            "emblem": "./imgs/coritiba-img.png"
+        },
+        {
+            "id":9,
+            "name": "Cruzeiro Esporte Clube",  
+            "state": "Minas Gerais",
+            "foundationYear": 1921,
+            "stadium": "Mineirão",
+            "mascot": "Raposa",
+            "emblem": "./imgs/cruzeiro-img.png"
+        },
+        {
+            "id":10,
+            "name": "Cuiaba Esporte Clube",  
+            "state": "Mato Grosso",
+            "foundationYear": 2001,
+            "stadium": "Arena Pantanal",
+            "mascot": "Peixe Douado",
+            "emblem": "./imgs/cuiaba-img.png"
+        },
+        {
+            "id":11,
+            "name": "Clube de Regatas do Flamengo",  
+            "state": "Rio de Janeiro",
+            "foundationYear": 1895,
+            "stadium": "Maracanã",
+            "mascot": "Urubu",
+            "emblem": "./imgs/flamengo-img.png"
+        },
+        {
+            "id":12,
+            "name": "Fluminense Football Club",  
+            "state": "Rio de Janeiro",
+            "foundationYear": 1902,
+            "stadium": "Maracanã",
+            "mascot": "Guerreirinho",
+            "emblem": "./imgs/fluminense-img.png"
+        },
+        {
+            "id":13,
+            "name": "Esporte CLube Fortaleza",  
+            "state": "Ceará",
+            "foundationYear": 1918,
+            "stadium": "Arena Castelão",
+            "mascot": "Leão",
+            "emblem": "./imgs/fortaleza-img.png"
+        },
+        {
+            "id":14,
+            "name": "Goiás Esporte Clube",  
+            "state": "Goiás",
+            "foundationYear": 1943,
+            "stadium": "Serrinha",
+            "mascot": "Periquito",
+            "emblem": "./imgs/goias-img.png"
+        },
+        {
+            "id":15,
+            "name": "Grêmio Foot-Ball Porto Alegrense",  
+            "state": "Rio Grande do sul",
+            "foundationYear": 1903,
+            "stadium": "Arêna do Grêmio",
+            "mascot": "Mosqueteiro",
+            "emblem": "./imgs/gremio-img.png"
+        },
+        {
+            "id":16,
+            "name": "Sport Club Internacional",  
+            "state": "Rio Grande do Sul",
+            "foundationYear": 1909,
+            "stadium": "Estádio Beira Rio",
+            "mascot": "Saci",
+            "emblem": "./imgs/internacional-img.png"
+        },
+        {
+            "id":17,
+            "name": "Sociedade Esportiva Palmeiras",  
+            "state": "São Paulo",
+            "foundationYear": 1914,
+            "stadium": "Allianz Parque",
+            "mascot": "Periquito/Porco",
+            "emblem": "./imgs/palmeiras-img.png"
+        },
+        {
+            "id":18,
+            "name": "Santos Futebol Clube",  
+            "state": "São Paulo",
+            "foundationYear": 1912,
+            "stadium": "Estádio Urbano Caldeira - Vila Belmiro",
+            "mascot": "Baleia",
+            "emblem": "./imgs/santos-img.png"
+        },
+        {
+            "id":19,
+            "name": "São Paulo Futebol Clube",  
+            "state": "São Paulo",
+            "foundationYear": 1930,
+            "stadium": "Cicero Pompeu de Toledo - Morumbi",
+            "mascot": "Paulo de Tarso",
+            "emblem": "./imgs/sao-paulo-img.png"
+        },
+        {
+            "id":20,
+            "name": "Club de Regatas Vasco da Gama",  
+            "state": "Rio de Janeiro",
+            "foundationYear": 1898,
+            "stadium": "Estádio Vasco da Gama - São Januário",
+            "mascot": "Almirante",
+            "emblem": "./imgs/vasco-da-gama-img.png"
+        }
+
+    ]
